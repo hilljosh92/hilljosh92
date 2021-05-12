@@ -1,4 +1,4 @@
-### Hi there 👋
+  Hi there 💎
 
 <!--
 **hilljosh92/hilljosh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,6 +9,4 @@
 - 🤔 I’m looking for help with any and everything at the moment.
 - 💬 Ask me about anything and I'll answer your questions to the best of my ability.
 - 📫 How to reach me: Is threw the my website there on my page.
-- 😄 
-- ⚡ 
--->
+
